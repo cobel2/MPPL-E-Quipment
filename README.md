@@ -1,4 +1,4 @@
-# MPPL E-Quipment (Augmented Reality)
+# Tugas MPPL E-Quipment (AR & Web)
 E-Quipment adalah sebuah aplikasi berbasis Augmented Reality yang bertujuan untuk memudahkan pembeli memilih barang (mebel) di Toko Putra Jepara.
 
 Lihat katalog barang disini : http://putra-jepara.azurewebsites.net/
