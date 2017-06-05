@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Marker_Kucing" size="720.000000 1199.000000" />
+    <ImageTarget name="Marker_Jerapah" size="720.000000 1199.000000" />
+    <ImageTarget name="Marker_Ikan" size="720.000000 1199.000000" />
+    <ImageTarget name="Marker_Harimau" size="720.000000 1199.000000" />
+    <ImageTarget name="Marker_Gajah" size="720.000000 1199.000000" />
+    <ImageTarget name="Marker_Elang" size="720.000000 1199.000000" />
+    <ImageTarget name="Marker_Domba" size="720.000000 1199.000000" />
+    <ImageTarget name="Marker_Capung" size="720.000000 1199.000000" />
+    <ImageTarget name="Marker_Beruang" size="720.000000 1199.000000" />
+    <ImageTarget name="Marker_Anjing" size="720.000000 1199.000000" />
+    <ImageTarget name="Marker_ARBelajarBinatang" size="720.000000 1199.000000" />
+  </Tracking>
+</QCARConfig>
