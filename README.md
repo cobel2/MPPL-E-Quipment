@@ -3,8 +3,7 @@ E-Quipment adalah sebuah aplikasi berbasis Augmented Reality yang bertujuan untu
 
 Lihat katalog barang disini : http://putra-jepara.azurewebsites.net/
 
-# Logo E-Quipment
-![e-quipment logo](https://cloud.githubusercontent.com/assets/19505028/26777648/3b4ba9ee-4a08-11e7-8656-943b20ea267e.png)
+![e-quipment - mockup](https://cloud.githubusercontent.com/assets/19505028/26806549/aa6fd17e-4a7b-11e7-9b5d-753e69b2a461.png)
 
 # Tampilan Main Menu
 ![main menu](https://cloud.githubusercontent.com/assets/19505028/26777557/dddb039a-4a07-11e7-9601-266ff638bf03.png)
