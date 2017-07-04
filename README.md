@@ -1,7 +1,14 @@
 # Tugas MPPL E-Quipment (AR & Web)
 E-Quipment adalah sebuah aplikasi berbasis Augmented Reality yang bertujuan untuk memudahkan pembeli memilih barang (mebel) di Toko Putra Jepara.
 
-Lihat katalog barang disini : http://putra-jepara.azurewebsites.net/
+# Anggota Kelompok :
+1. 10114063 - Reza Ahmad Maulana
+2. 10114090 - Agil Julio
+3. 10114092 - Ryan Akbar Pahlevi
+4. 10114509 - Tb Prassetyo A
+5. 10114553 - Ikhsan Nuryamin
+
+Lihat katalog dan pembelian disini : http://putra-jepara.byethost7.com/
 
 ![e-quipment - mockup](https://cloud.githubusercontent.com/assets/19505028/26806549/aa6fd17e-4a7b-11e7-9b5d-753e69b2a461.png)
 
